@@ -107,8 +107,6 @@ t.pendown()
 t.setheading(90)
 
 branch(100, 8)
-
-
 input()
 t.clear()
 
